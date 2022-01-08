@@ -1,0 +1,12 @@
+{
+    "server": "sorexproject.eu",
+    "port": "443",
+
+    "server1": "panel.sorexproject.eu",
+    "port1": "443",
+
+    "server2": "80.13.241.251",
+    "port2": "30000"
+
+
+}
